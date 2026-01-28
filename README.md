@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-Hi im jakob
+Hi im SWJ100
